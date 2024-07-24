@@ -11,7 +11,7 @@ pipeline {
  
     tools {
 
-        maven "Maven 3.9.4"
+        maven "maven 3.9.4"
 
     }
  
