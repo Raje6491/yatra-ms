@@ -1,4 +1,3 @@
-[11:31 AM] Bhratesh Dhangar
 pipeline {
 
     agent any
